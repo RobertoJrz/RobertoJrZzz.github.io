@@ -1,0 +1,64 @@
+@media screen and (max-width: 425px) {
+    body{
+        height: 7px;
+        align-items: center;
+        
+    }
+
+
+    #logo{
+        width: 100px;
+    }
+
+    .section-title{
+        font-size: 11px;
+    }
+
+    .section-main{
+        font-size: 25px;
+        margin-top: 10px;
+    }
+
+    #btn-content{
+        font-size: 15px;
+        margin-top: 10px;
+        
+    }
+
+    .section-subtitle{
+        font-size: 24px;
+    }
+
+    .section-subtitle-perfil{
+        font-size: 18px;
+    }
+
+    .link{
+        font-size: 25px;
+    }
+
+    .profile{
+        border-radius: 50%;
+        width: 300px;
+        height: 80px;
+        overflow: hidden;
+        position: relative;
+        margin: 50px;
+    }
+
+    .study-logo{
+        height: 100px;
+    }
+
+  #study-geral{
+    display: block;
+  }
+   
+  .mobile{
+    color: rgba(255, 255, 255, 0.39);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+}

@@ -45,9 +45,14 @@ body{
 .section-subtitle{
     color: white;
     font-size: 30px;
-    margin-top: 100px;
+    margin-top: 100px;color: white;
 }
 
+.section-subtitle-perfil{
+    color: white;
+    font-size: 30px;
+    margin-top: 100px;color: white;
+}
 
 #btn-content{
     padding: 10px;
@@ -63,7 +68,7 @@ body{
 .profile{
     border-radius: 50%;
     width: 250px;
-    height: 250px;
+    height: 200px;
     overflow: hidden;
     position: relative;
     margin: 50px;
@@ -121,4 +126,8 @@ body{
     border-radius: 10px;
     align-items: center;
     
+}
+
+.mobile{
+    display: none;
 }
