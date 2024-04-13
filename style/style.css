@@ -1,0 +1,124 @@
+body{
+    background-color: black;
+    font-family: "Pixelify Sans", sans-serif;
+    margin: 0px;
+}
+
+#container{
+    background:linear-gradient(rgba(0,0,0,0.247), rgba(241, 108, 197, 0.26)),url(/assets/image/desktop-wallpaper-4-plain-black-plain-black.jpg);
+    height: 750px;
+    padding: 40px;
+    margin: 9px;
+    border-radius: 10px;
+}
+
+#header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+}
+
+
+#logo{
+    width: 200px;
+}
+
+
+.section-title{
+    font-size: 20px;
+    color: rgba(241, 108, 197, 0.26);
+}
+
+
+
+#main-content{
+    text-align: center;
+    margin-top: 90px;
+}
+
+.section-main{
+    color: white;
+    font-size: 40px;
+}
+
+.section-subtitle{
+    color: white;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+
+#btn-content{
+    padding: 10px;
+    line-height: normal;
+    border-radius: 8px;
+    background-color: transparent;
+    color: white;
+    font-size: 25px;
+    font-family: "Pixelify Sans", sans-serif;;
+}
+
+
+.profile{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+    margin: 50px;
+}
+
+.profile img{
+    bottom: 0;
+    width: 100%;
+}
+
+.person{
+    background-color: rgba(241, 108, 197, 0.048);
+    margin-top: 10px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin: 40px;
+    border-radius: 10px;
+    
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+
+#study-geral{
+    display: flex;
+   
+}
+
+.study-logo{
+    height: 400px;
+}
+
+.studyHTML{
+    background-color: rgba(241, 108, 197, 0.048);
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    margin: 40px;
+    border-radius: 10px;
+    align-items: center;
+    
+}
+
+.studyCSS{
+    background-color: rgba(241, 108, 197, 0.048);
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    margin: 40px;
+    border-radius: 10px;
+    align-items: center;
+    
+}
