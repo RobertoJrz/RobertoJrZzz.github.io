@@ -8,6 +8,10 @@ I used the "Pixelify Sans" font to give my WebBook a more "Gamer" look, but you'
 <h2>What it's for</h2>
 <p>A website used to deposit my knowledge of programming and HTML/CSS/JavaScript among various other skills,<br> I will always be adding more and more</p>
 
+<h2>Updates</h2>
+<p>We have a mobile version now too!
+Use it on your desktop, your mobile, wherever you want!</p>
+
 <h2>Appreciation</h2>
 <p>Thanks to my teacher Alexandre Saints, as mentioned on the page, for influencing me to continue with programming and giving me the motivation to return to FrontEnd.</p>
 
@@ -23,6 +27,10 @@ I used the "Pixelify Sans" font to give my WebBook a more "Gamer" look, but you'
 Utilizei a font "Pixelify Sans" para dar um designer mais "Gamer" em meu WebBook, porém, você pode ficar livre para utilzar o que quiser.
 <h2>Para que serve</h2>
 <p>Um website utilizado para depositar meus conhecimentos sobre programação e HTML/CSS/JavaScript entre diversos outros conhecimentos,<br> Sempre estarei adicionando mais e mais</p>
+
+<h2>Atualizações</h2>
+<p>Estamos com a versão mobile agora também!
+Aproveita para usar no seu desktop, no seu mobile, onde quiser!</p>
 
 <h2>Agredimentos</h2>
 <p>Em agradecimento ao meu professor Alexandre Saints, tal citado na página, por me influenciar a continuar com a programação e me trazer a motivação para voltar ao FrontEnd.</p>
